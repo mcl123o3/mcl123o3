@@ -32,27 +32,15 @@ I develop code mainly as a junior backend and I love to create new solutions tha
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Html-Code-informational?style=flat&logo=HTMX&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Git-Code-informational?style=flat&logo=git&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Php-Code-informational?style=flat&logo=php&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Numpy-Code-informational?style=flat&logo=numpy&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Pandas-Code-informational?style=flat&logo=pandas&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Pytorch-Code-informational?style=flat&logo=pytorch&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Java-Code-informational?style=flat&logo=OpenJDK&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Matlab-Code-informational?style=flat&logo=octave&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Proteus-Code-informational?style=flat&logo=proteus&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Arduino-Code-informational?style=flat&logo=arduino&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/Raspberry-Code-informational?style=flat&logo=Raspberry-Pi&logoColor=white&color=e98d07)
-
 ![](https://img.shields.io/badge/AndroidStudio-Code-informational?style=flat&logo=Android&logoColor=white&color=e98d07)
